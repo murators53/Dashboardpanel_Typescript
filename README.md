@@ -1,4 +1,4 @@
-# with Tailwind  Nike Ecommerse project Typescript and Redux Toolkit
+#  Dashboard panel project Typescript 
 
 ## What I Practice
 

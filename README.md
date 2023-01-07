@@ -1,4 +1,4 @@
-#  Dashboard panel project Typescript 
+#  Dashboard panel project Typescript , Responsive
 
 ## What I Practice
 
@@ -6,6 +6,7 @@
  - for `ApexCharts` to build interactive visualizations
  -`tailwind` için `line-clamp`
  - For icon`iconscout/react-unicons` 
+ 
 
 ### `Screen` </br>
 
